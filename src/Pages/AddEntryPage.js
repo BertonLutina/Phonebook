@@ -1,10 +1,21 @@
 import React, { Component } from 'react'
-import { Jumbotron,InputGroup, FormControl, Image } from 'react-bootstrap';
+import { Jumbotron,InputGroup, FormControl, Col, Button, Form, Image } from 'react-bootstrap';
 import './styles.css';
 
 
 class AddEntryPage extends Component {
-  avatars = []
+  avatars = ["female_school_director_user_50.png",
+  "female_school_director_user_50_2.png",
+  "female_school_director_user_50_3.png",
+  "female_user_50_2.png",
+  "female_user_50_3.png",
+  "female_user_50_5.png",
+  "male_school_director_user_50.png",
+  "male_school_director_user_50_3.png",
+  "male_school_director_user_50_4.png",
+  "male_user_50.png",
+  "male_user_50_2.png", 
+  "male_user_50_6.png"]
   render() {
     return (
       <div>
@@ -15,11 +26,45 @@ class AddEntryPage extends Component {
         <Jumbotron>
         <h1 style={{textAlign:'center'}}>Contact</h1>
           <p style={{textAlign:'center'}}>Create here your We-Contact!</p>
+        
+        <Form>
+   
         <InputGroup className="mb-3">
-  <FormControl placeholder="First name"/>
-  <FormControl placeholder="Last name"/>
-</InputGroup>
-<FormControl placeholder="+32477 77 77 77"/>
+        <Form.Group as={Col} controlId="fname">
+          <FormControl placeholder="First name" type="text"/>
+          </Form.Group>
+          <Form.Group as={Col} controlId="lname">
+          <FormControl placeholder="Last name" type="text"/>
+          </Form.Group>
+        </InputGroup>
+        <Form.Group as={Col} controlId="phonenumber">
+            <FormControl placeholder="+32477 77 77 77" type="text"/>
+          </Form.Group>
+          <Form.Group as={Col} controlId="formGridState">
+      <Form.Control as="select">
+        <option>Choose your avatar ...</option>
+        
+        
+      </Form.Control>
+
+    </Form.Group>
+    <Form.Group as={Col}>
+    {
+          this.avatars.map((ava,index) => {
+          return <Image src={require("../Avatars/"+ava)}/>
+          }
+          )
+        }
+    </Form.Group>
+    
+
+    <Form.Group as={Col} controlId="phonenumber">
+    <Button variant="info" type="submit">
+    Submit
+  </Button>
+  </Form.Group>
+        </Form>
+          
         </Jumbotron>
         </div>
         
