@@ -40,24 +40,19 @@ class AddEntryPage extends Component {
         <Form.Group as={Col} controlId="phonenumber">
             <FormControl placeholder="+32477 77 77 77" type="text"/>
           </Form.Group>
-          <Form.Group as={Col} controlId="formGridState">
-      <Form.Control as="select">
-        <option>Choose your avatar ...</option>
-        
-        
-      </Form.Control>
-
-    </Form.Group>
+          
     <Form.Group as={Col}>
+    
+   
+      <h4 style={{textAlign:'center'}}>Choose your Avartar </h4>
+  
     {
           this.avatars.map((ava,index) => {
-          return <Image src={require("../Avatars/"+ava)}/>
+          return <Image key={index} src={require("../Avatars/"+ava)} onClick={ () => alert(ava)}/>
           }
           )
         }
     </Form.Group>
-    
-
     <Form.Group as={Col} controlId="phonenumber">
     <Button variant="info" type="submit">
     Submit
