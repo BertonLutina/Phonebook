@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import './styles.css';
-import {Form, Image, Jumbotron, Table, Button} from 'react-bootstrap';
+
+import {Form, Image, Jumbotron, Button, ListGroup} from 'react-bootstrap';
+import Mediaobject from './mediaobject';
 
 class HomePage extends Component {
   render() {
@@ -18,30 +19,15 @@ class HomePage extends Component {
           <Button variant='link'>+ add new contact</Button>
         </div>
         <div className="TableStyle">
-        <Table striped bordered hover >
-        <tr>
-          <th>Id</th>
-          <th>First name</th>
-          <th>Last Name</th>
-          <th>Phone number</th>
-          <th>Country</th>
-          <th>Flag</th>
-        </tr>
-        <tbody>
-          <td>483458</td>
-          <td>Berton</td>
-          <td>Lutina Mulamba</td>
-          <td>0471634353</td>
-          <td>Belgium</td>
-          <td>B</td>
-        </tbody>
-        </Table>
+        <ListGroup variant="flush">
+  <ListGroup.Item>
+    <Mediaobject name="berton" 
+                 phonenumber="0471634353" 
+                 avatar={require('../Avatars/male_user_50.png')}/>
+    </ListGroup.Item>
+  
+</ListGroup>
         </div>
-        
-       
-        
-        
-        
       </div>
     )
   }

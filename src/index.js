@@ -4,9 +4,10 @@ import './index.css';
 // import App from './App';
 
 import * as serviceWorker from './serviceWorker';
-import HomePage from './Pages/HomePage';
+//import HomePage from './Pages/HomePage';
+import AddEntryPage from './Pages/AddEntryPage';
 
-ReactDOM.render(<HomePage />, document.getElementById('root'));
+ReactDOM.render(<AddEntryPage />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

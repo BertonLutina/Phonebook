@@ -1,11 +1,27 @@
 .Logo{
-    width: 190px;
+    width: 160px;
     position: absolute;
-    top: 5px;
-    left: 5px;
+    top: 10px;
+    left: 10px;
 }
 
 .add{
     text-align: right;
     padding: 10px;
+    padding-right: 60px;
+}
+
+.TableStyle{
+    margin: auto;
+    width: 400px;
+    height: 200px;
+
+}
+
+.Container{
+    position: absolute;
+    min-width: 200px;
+  max-width: 400px;
+  margin: auto;
+  top: 100px; left: 0; bottom: 0; right: 0;
 }
