@@ -1,0 +1,1465 @@
+{
+   "Afghanistan": [
+      {
+         "Prefix": "+93"
+      }
+   ],
+   "Albania": [
+      {
+         "Prefix": "+355"
+      }
+   ],
+   "Algeria": [
+      {
+         "Prefix": "+213"
+      }
+   ],
+   "American Samoa": [
+      {
+         "Prefix": "+1 684"
+      }
+   ],
+   "Andorra": [
+      {
+         "Prefix": "+376"
+      }
+   ],
+   "Angola": [
+      {
+         "Prefix": "+244"
+      }
+   ],
+   "Anguilla": [
+      {
+         "Prefix": "+1 264"
+      }
+   ],
+   "Antigua and Barbuda": [
+      {
+         "Prefix": "+1 268"
+      }
+   ],
+   "Argentina": [
+      {
+         "Prefix": "+54"
+      }
+   ],
+   "Armenia": [
+      {
+         "Prefix": "+374"
+      }
+   ],
+   "Aruba": [
+      {
+         "Prefix": "+297"
+      }
+   ],
+   "Ascension": [
+      {
+         "Prefix": "+247"
+      }
+   ],
+   "Australia": [
+      {
+         "Prefix": "+61"
+      }
+   ],
+   "Australian Antarctic Territory": [
+      {
+         "Prefix": "+672 1"
+      }
+   ],
+   "Australian External Territories": [
+      {
+         "Prefix": "+672"
+      }
+   ],
+   "Austria": [
+      {
+         "Prefix": "+43"
+      }
+   ],
+   "Azerbaijan": [
+      {
+         "Prefix": "+994"
+      }
+   ],
+   "Bahamas": [
+      {
+         "Prefix": "+1 242"
+      }
+   ],
+   "Bahrain": [
+      {
+         "Prefix": "+973"
+      }
+   ],
+   "Bangladesh": [
+      {
+         "Prefix": "+880"
+      }
+   ],
+   "Barbados": [
+      {
+         "Prefix": "+1 246"
+      }
+   ],
+   "Barbuda": [
+      {
+         "Prefix": "+1 268"
+      }
+   ],
+   "Belarus": [
+      {
+         "Prefix": "+375"
+      }
+   ],
+   "Belgium": [
+      {
+         "Prefix": "+32"
+      }
+   ],
+   "Belize": [
+      {
+         "Prefix": "+501"
+      }
+   ],
+   "Benin": [
+      {
+         "Prefix": "+229"
+      }
+   ],
+   "Bermuda": [
+      {
+         "Prefix": "+1 441"
+      }
+   ],
+   "Bhutan": [
+      {
+         "Prefix": "+975"
+      }
+   ],
+   "Bolivia": [
+      {
+         "Prefix": "+591"
+      }
+   ],
+   "Bonaire": [
+      {
+         "Prefix": "+599 7"
+      }
+   ],
+   "Bosnia and Herzegovina": [
+      {
+         "Prefix": "+387"
+      }
+   ],
+   "Botswana": [
+      {
+         "Prefix": "+267"
+      }
+   ],
+   "Brazil": [
+      {
+         "Prefix": "+55"
+      }
+   ],
+   "British Indian Ocean Territory": [
+      {
+         "Prefix": "+246"
+      }
+   ],
+   "British Virgin Islands": [
+      {
+         "Prefix": "+1 284"
+      }
+   ],
+   "Brunei Darussalam": [
+      {
+         "Prefix": "+673"
+      }
+   ],
+   "Bulgaria": [
+      {
+         "Prefix": "+359"
+      }
+   ],
+   "Burkina Faso": [
+      {
+         "Prefix": "+226"
+      }
+   ],
+   "Burundi": [
+      {
+         "Prefix": "+257"
+      }
+   ],
+   "Cabo Verde": [
+      {
+         "Prefix": "+238"
+      }
+   ],
+   "Cambodia": [
+      {
+         "Prefix": "+855"
+      }
+   ],
+   "Cameroon": [
+      {
+         "Prefix": "+237"
+      }
+   ],
+   "Canada": [
+      {
+         "Prefix": "+1"
+      }
+   ],
+   "Caribbean Netherlands": [
+      {
+         "Prefix": "+599 3"
+      },
+      {
+         "Prefix": "+599 4"
+      },
+      {
+         "Prefix": "+599 7"
+      }
+   ],
+   "Cayman Islands": [
+      {
+         "Prefix": "+1 345"
+      }
+   ],
+   "Central African Republic": [
+      {
+         "Prefix": "+236"
+      }
+   ],
+   "Chad": [
+      {
+         "Prefix": "+235"
+      }
+   ],
+   "Chatham Island, New Zealand": [
+      {
+         "Prefix": "+64"
+      }
+   ],
+   "Chile": [
+      {
+         "Prefix": "+56"
+      }
+   ],
+   "China": [
+      {
+         "Prefix": "+86"
+      }
+   ],
+   "Christmas Island": [
+      {
+         "Prefix": "+61 89164"
+      }
+   ],
+   "Cocos (Keeling) Islands": [
+      {
+         "Prefix": "+61 89162"
+      }
+   ],
+   "Colombia": [
+      {
+         "Prefix": "+57"
+      }
+   ],
+   "Comoros": [
+      {
+         "Prefix": "+269"
+      }
+   ],
+   "Congo": [
+      {
+         "Prefix": "+242"
+      }
+   ],
+   "Congo, Democratic Republic of the (Zaire)": [
+      {
+         "Prefix": "+243"
+      }
+   ],
+   "Cook Islands": [
+      {
+         "Prefix": "+682"
+      }
+   ],
+   "Costa Rica": [
+      {
+         "Prefix": "+506"
+      }
+   ],
+   "Croatia": [
+      {
+         "Prefix": "+385"
+      }
+   ],
+   "Cuba": [
+      {
+         "Prefix": "+53"
+      }
+   ],
+   "Cura�ao": [
+      {
+         "Prefix": "+599 9"
+      }
+   ],
+   "Cyprus": [
+      {
+         "Prefix": "+357"
+      }
+   ],
+   "Czech Republic": [
+      {
+         "Prefix": "+420"
+      }
+   ],
+   "Denmark": [
+      {
+         "Prefix": "+45"
+      }
+   ],
+   "Diego Garcia": [
+      {
+         "Prefix": "+246"
+      }
+   ],
+   "Djibouti": [
+      {
+         "Prefix": "+253"
+      }
+   ],
+   "Dominica": [
+      {
+         "Prefix": "+1 767"
+      }
+   ],
+   "Dominican Republic": [
+      {
+         "Prefix": "+1 809"
+      },
+      {
+         "Prefix": "+1 829"
+      },
+      {
+         "Prefix": "+1 849"
+      }
+   ],
+   "Easter Island": [
+      {
+         "Prefix": "+56"
+      }
+   ],
+   "Ecuador": [
+      {
+         "Prefix": "+593"
+      }
+   ],
+   "Egypt": [
+      {
+         "Prefix": "+20"
+      }
+   ],
+   "El Salvador": [
+      {
+         "Prefix": "+503"
+      }
+   ],
+   "Ellipso (Mobile Satellite service)": [
+      {
+         "Prefix": "+881 3"
+      },
+      {
+         "Prefix": "+881 2"
+      }
+   ],
+   "EMSAT (Mobile Satellite service)": [
+      {
+         "Prefix": "+882 13"
+      }
+   ],
+   "Equatorial Guinea": [
+      {
+         "Prefix": "+240"
+      }
+   ],
+   "Eritrea": [
+      {
+         "Prefix": "+291"
+      }
+   ],
+   "Estonia": [
+      {
+         "Prefix": "+372"
+      }
+   ],
+   "eSwatini": [
+      {
+         "Prefix": "+268"
+      }
+   ],
+   "Ethiopia": [
+      {
+         "Prefix": "+251"
+      }
+   ],
+   "Falkland Islands": [
+      {
+         "Prefix": "+500"
+      }
+   ],
+   "Faroe Islands": [
+      {
+         "Prefix": "+298"
+      }
+   ],
+   "Fiji": [
+      {
+         "Prefix": "+679"
+      }
+   ],
+   "Finland": [
+      {
+         "Prefix": "+358"
+      }
+   ],
+   "France": [
+      {
+         "Prefix": "+33"
+      }
+   ],
+   "French Antilles": [
+      {
+         "Prefix": "+596"
+      }
+   ],
+   "French Guiana": [
+      {
+         "Prefix": "+594"
+      }
+   ],
+   "French Polynesia": [
+      {
+         "Prefix": "+689"
+      }
+   ],
+   "Gabon": [
+      {
+         "Prefix": "+241"
+      }
+   ],
+   "Gambia": [
+      {
+         "Prefix": "+220"
+      }
+   ],
+   "Georgia": [
+      {
+         "Prefix": "+995"
+      }
+   ],
+   "Germany": [
+      {
+         "Prefix": "+49"
+      }
+   ],
+   "Ghana": [
+      {
+         "Prefix": "+233"
+      }
+   ],
+   "Gibraltar": [
+      {
+         "Prefix": "+350"
+      }
+   ],
+   "Global Mobile Satellite System (GMSS)": [
+      {
+         "Prefix": "+881"
+      }
+   ],
+   "Globalstar (Mobile Satellite Service)": [
+      {
+         "Prefix": "+881 8"
+      },
+      {
+         "Prefix": "+881 9"
+      }
+   ],
+   "Greece": [
+      {
+         "Prefix": "+30"
+      }
+   ],
+   "Greenland": [
+      {
+         "Prefix": "+299"
+      }
+   ],
+   "Grenada": [
+      {
+         "Prefix": "+1 473"
+      }
+   ],
+   "Guadeloupe": [
+      {
+         "Prefix": "+590"
+      }
+   ],
+   "Guam": [
+      {
+         "Prefix": "+1 671"
+      }
+   ],
+   "Guatemala": [
+      {
+         "Prefix": "+502"
+      }
+   ],
+   "Guernsey": [
+      {
+         "Prefix": "+44 1481"
+      },
+      {
+         "Prefix": "+44 7781"
+      },
+      {
+         "Prefix": "+44 7839"
+      },
+      {
+         "Prefix": "+44 7911"
+      }
+   ],
+   "Guinea": [
+      {
+         "Prefix": "+224"
+      }
+   ],
+   "Guinea-Bissau": [
+      {
+         "Prefix": "+245"
+      }
+   ],
+   "Guyana": [
+      {
+         "Prefix": "+592"
+      }
+   ],
+   "Haiti": [
+      {
+         "Prefix": "+509"
+      }
+   ],
+   "Honduras": [
+      {
+         "Prefix": "+504"
+      }
+   ],
+   "Hong Kong": [
+      {
+         "Prefix": "+852"
+      }
+   ],
+   "Hungary": [
+      {
+         "Prefix": "+36"
+      }
+   ],
+   "Iceland": [
+      {
+         "Prefix": "+354"
+      }
+   ],
+   "ICO Global (Mobile Satellite Service)": [
+      {
+         "Prefix": "+881 0"
+      },
+      {
+         "Prefix": "+881 1"
+      }
+   ],
+   "India": [
+      {
+         "Prefix": "+91"
+      }
+   ],
+   "Indonesia": [
+      {
+         "Prefix": "+62"
+      }
+   ],
+   "Inmarsat SNAC": [
+      {
+         "Prefix": "+870"
+      }
+   ],
+   "International Freephone Service (UIFN)": [
+      {
+         "Prefix": "+800"
+      }
+   ],
+   "International Networks": [
+      {
+         "Prefix": "+882"
+      },
+      {
+         "Prefix": "+883"
+      }
+   ],
+   "International Premium Rate Service": [
+      {
+         "Prefix": "+979"
+      }
+   ],
+   "International Shared Cost Service (ISCS)": [
+      {
+         "Prefix": "+808"
+      }
+   ],
+   "Iran": [
+      {
+         "Prefix": "+98"
+      }
+   ],
+   "Iraq": [
+      {
+         "Prefix": "+964"
+      }
+   ],
+   "Ireland": [
+      {
+         "Prefix": "+353"
+      }
+   ],
+   "Iridium (Mobile Satellite service)": [
+      {
+         "Prefix": "+881 6"
+      },
+      {
+         "Prefix": "+881 7"
+      }
+   ],
+   "Isle of Man": [
+      {
+         "Prefix": "+44 1624,"
+      },
+      {
+         "Prefix": "+44 7524,"
+      },
+      {
+         "Prefix": "+44 7624"
+      },
+      {
+         "Prefix": "+44 7924"
+      }
+   ],
+   "Israel": [
+      {
+         "Prefix": "+972"
+      }
+   ],
+   "Italy": [
+      {
+         "Prefix": "+39"
+      }
+   ],
+   "Ivory Coast": [
+      {
+         "Prefix": "+225"
+      }
+   ],
+   "Jamaica": [
+      {
+         "Prefix": "+1 876"
+      }
+   ],
+   "Jan Mayen": [
+      {
+         "Prefix": "+47 79"
+      }
+   ],
+   "Japan": [
+      {
+         "Prefix": "+81"
+      }
+   ],
+   "Jersey": [
+      {
+         "Prefix": "+44 1534"
+      }
+   ],
+   "Jordan": [
+      {
+         "Prefix": "+962"
+      }
+   ],
+   "Kazakhstan": [
+      {
+         "Prefix": "+7 6"
+      },
+      {
+         "Prefix": "+7 7"
+      }
+   ],
+   "Kenya": [
+      {
+         "Prefix": "+254"
+      }
+   ],
+   "Kiribati": [
+      {
+         "Prefix": "+686"
+      }
+   ],
+   "Korea, North": [
+      {
+         "Prefix": "+850"
+      }
+   ],
+   "Korea, South": [
+      {
+         "Prefix": "+82"
+      }
+   ],
+   "Kosovo": [
+      {
+         "Prefix": "+383"
+      }
+   ],
+   "Kuwait": [
+      {
+         "Prefix": "+965"
+      }
+   ],
+   "Kyrgyzstan": [
+      {
+         "Prefix": "+996"
+      }
+   ],
+   "Laos": [
+      {
+         "Prefix": "+856"
+      }
+   ],
+   "Latvia": [
+      {
+         "Prefix": "+371"
+      }
+   ],
+   "Lebanon": [
+      {
+         "Prefix": "+961"
+      }
+   ],
+   "Lesotho": [
+      {
+         "Prefix": "+266"
+      }
+   ],
+   "Liberia": [
+      {
+         "Prefix": "+231"
+      }
+   ],
+   "Libya": [
+      {
+         "Prefix": "+218"
+      }
+   ],
+   "Liechtenstein": [
+      {
+         "Prefix": "+423"
+      }
+   ],
+   "Lithuania": [
+      {
+         "Prefix": "370"
+      }
+   ],
+   "Luxembourg": [
+      {
+         "Prefix": "352"
+      }
+   ],
+   "Macau": [
+      {
+         "Prefix": "+853"
+      }
+   ],
+   "Madagascar": [
+      {
+         "Prefix": "+261"
+      }
+   ],
+   "Malawi": [
+      {
+         "Prefix": "+265"
+      }
+   ],
+   "Malaysia": [
+      {
+         "Prefix": "+60"
+      }
+   ],
+   "Maldives": [
+      {
+         "Prefix": "+960"
+      }
+   ],
+   "Mali": [
+      {
+         "Prefix": "+223"
+      }
+   ],
+   "Malta": [
+      {
+         "Prefix": "+356"
+      }
+   ],
+   "Marshall Islands": [
+      {
+         "Prefix": "+692"
+      }
+   ],
+   "Martinique": [
+      {
+         "Prefix": "+596"
+      }
+   ],
+   "Mauritania": [
+      {
+         "Prefix": "+222"
+      }
+   ],
+   "Mauritius": [
+      {
+         "Prefix": "+230"
+      }
+   ],
+   "Mayotte": [
+      {
+         "Prefix": "+262 639"
+      },
+      {
+         "Prefix": "+262 269"
+      }
+   ],
+   "Mexico": [
+      {
+         "Prefix": "+52"
+      }
+   ],
+   "Micronesia, Federated States of": [
+      {
+         "Prefix": "+691"
+      }
+   ],
+   "Midway Island, USA": [
+      {
+         "Prefix": "+1 808"
+      }
+   ],
+   "Moldova": [
+      {
+         "Prefix": "+373"
+      }
+   ],
+   "Monaco": [
+      {
+         "Prefix": "+377"
+      }
+   ],
+   "Mongolia": [
+      {
+         "Prefix": "+976"
+      }
+   ],
+   "Montenegro": [
+      {
+         "Prefix": "+382"
+      }
+   ],
+   "Montserrat": [
+      {
+         "Prefix": "+1 664"
+      }
+   ],
+   "Morocco": [
+      {
+         "Prefix": "+212"
+      }
+   ],
+   "Mozambique": [
+      {
+         "Prefix": "+258"
+      }
+   ],
+   "Myanmar": [
+      {
+         "Prefix": "+95"
+      }
+   ],
+   "Nagorno-Karabakh": [
+      {
+         "Prefix": "+374 47"
+      },
+      {
+         "Prefix": "+374 97"
+      }
+   ],
+   "Namibia": [
+      {
+         "Prefix": "+264"
+      }
+   ],
+   "Nauru": [
+      {
+         "Prefix": "+674"
+      }
+   ],
+   "Nepal": [
+      {
+         "Prefix": "+977"
+      }
+   ],
+   "Netherlands": [
+      {
+         "Prefix": "+31"
+      }
+   ],
+   "Nevis": [
+      {
+         "Prefix": "+1 869"
+      }
+   ],
+   "New Caledonia": [
+      {
+         "Prefix": "+687"
+      }
+   ],
+   "New Zealand": [
+      {
+         "Prefix": "+64"
+      }
+   ],
+   "Nicaragua": [
+      {
+         "Prefix": "+505"
+      }
+   ],
+   "Niger": [
+      {
+         "Prefix": "+227"
+      }
+   ],
+   "Nigeria": [
+      {
+         "Prefix": "+234"
+      }
+   ],
+   "Niue": [
+      {
+         "Prefix": "+683"
+      }
+   ],
+   "Norfolk Island": [
+      {
+         "Prefix": "+672 3"
+      }
+   ],
+   "North Macedonia": [
+      {
+         "Prefix": "+389"
+      }
+   ],
+   "Northern Cyprus": [
+      {
+         "Prefix": "+90 392"
+      }
+   ],
+   "Northern Ireland": [
+      {
+         "Prefix": "+44 28"
+      }
+   ],
+   "Northern Mariana Islands": [
+      {
+         "Prefix": "+1 670"
+      }
+   ],
+   "Norway": [
+      {
+         "Prefix": "+47"
+      }
+   ],
+   "Oman": [
+      {
+         "Prefix": "+968"
+      }
+   ],
+   "Pakistan": [
+      {
+         "Prefix": "+92"
+      }
+   ],
+   "Palau": [
+      {
+         "Prefix": "+680"
+      }
+   ],
+   "Palestine, State of": [
+      {
+         "Prefix": "+970"
+      }
+   ],
+   "Panama": [
+      {
+         "Prefix": "+507"
+      }
+   ],
+   "Papua New Guinea": [
+      {
+         "Prefix": "+675"
+      }
+   ],
+   "Paraguay": [
+      {
+         "Prefix": "+595"
+      }
+   ],
+   "Peru": [
+      {
+         "Prefix": "+51"
+      }
+   ],
+   "Philippines": [
+      {
+         "Prefix": "+63"
+      }
+   ],
+   "Pitcairn Islands": [
+      {
+         "Prefix": "+64"
+      }
+   ],
+   "Poland": [
+      {
+         "Prefix": "+48"
+      }
+   ],
+   "Portugal": [
+      {
+         "Prefix": "+351"
+      }
+   ],
+   "Puerto Rico": [
+      {
+         "Prefix": "+1 787"
+      },
+      {
+         "Prefix": "+1 939"
+      }
+   ],
+   "Qatar": [
+      {
+         "Prefix": "+974"
+      }
+   ],
+   "Romania": [
+      {
+         "Prefix": "+40"
+      }
+   ],
+   "Russia": [
+      {
+         "Prefix": "+7"
+      }
+   ],
+   "Rwanda": [
+      {
+         "Prefix": "+"
+      }
+   ],
+   "R_union": [
+      {
+         "Prefix": "+262"
+      }
+   ],
+   "Saba": [
+      {
+         "Prefix": "+599 4"
+      }
+   ],
+   "Saint Barth_lemy": [
+      {
+         "Prefix": "+590"
+      }
+   ],
+   "Saint Helena": [
+      {
+         "Prefix": "+290"
+      }
+   ],
+   "Saint Kitts and Nevis": [
+      {
+         "Prefix": "+1 869"
+      }
+   ],
+   "Saint Lucia": [
+      {
+         "Prefix": "+1 758"
+      }
+   ],
+   "Saint Martin (France)": [
+      {
+         "Prefix": "+590"
+      }
+   ],
+   "Saint Pierre and Miquelon": [
+      {
+         "Prefix": "+508"
+      }
+   ],
+   "Saint Vincent and the Grenadines": [
+      {
+         "Prefix": "+1 784"
+      }
+   ],
+   "Samoa": [
+      {
+         "Prefix": "+685"
+      }
+   ],
+   "San Marino": [
+      {
+         "Prefix": "+378"
+      }
+   ],
+   "Saudi Arabia": [
+      {
+         "Prefix": "+966"
+      }
+   ],
+   "Senegal": [
+      {
+         "Prefix": "+221"
+      }
+   ],
+   "Serbia": [
+      {
+         "Prefix": "+381"
+      }
+   ],
+   "Seychelles": [
+      {
+         "Prefix": "+248"
+      }
+   ],
+   "Sierra Leone": [
+      {
+         "Prefix": "+232"
+      }
+   ],
+   "Singapore": [
+      {
+         "Prefix": "+65"
+      }
+   ],
+   "Sint Eustatius": [
+      {
+         "Prefix": "+599 3"
+      }
+   ],
+   "Sint Maarten (Netherlands)": [
+      {
+         "Prefix": "+1 721"
+      }
+   ],
+   "Slovakia": [
+      {
+         "Prefix": "+421"
+      }
+   ],
+   "Slovenia": [
+      {
+         "Prefix": "+386"
+      }
+   ],
+   "Solomon Islands": [
+      {
+         "Prefix": "+677"
+      }
+   ],
+   "Somalia": [
+      {
+         "Prefix": "+252"
+      }
+   ],
+   "South Africa": [
+      {
+         "Prefix": "+27"
+      }
+   ],
+   "South Georgia and the South Sandwich Islands": [
+      {
+         "Prefix": "+500"
+      }
+   ],
+   "South Ossetia": [
+      {
+         "Prefix": "+995 34"
+      }
+   ],
+   "South Sudan": [
+      {
+         "Prefix": "+211"
+      }
+   ],
+   "Spain": [
+      {
+         "Prefix": "+34"
+      }
+   ],
+   "Sri Lanka": [
+      {
+         "Prefix": "+94"
+      }
+   ],
+   "Sudan": [
+      {
+         "Prefix": "+249"
+      }
+   ],
+   "Suriname": [
+      {
+         "Prefix": "+597"
+      }
+   ],
+   "Svalbard": [
+      {
+         "Prefix": "+47 79"
+      }
+   ],
+   "Sweden": [
+      {
+         "Prefix": "+46"
+      }
+   ],
+   "Switzerland": [
+      {
+         "Prefix": "+41"
+      }
+   ],
+   "Syria": [
+      {
+         "Prefix": "+963"
+      }
+   ],
+   "S�o Tom_ and Pr�ncipe": [
+      {
+         "Prefix": "+239"
+      }
+   ],
+   "Taiwan": [
+      {
+         "Prefix": "+886"
+      }
+   ],
+   "Tajikistan": [
+      {
+         "Prefix": "+992"
+      }
+   ],
+   "Tanzania": [
+      {
+         "Prefix": "+255"
+      }
+   ],
+   "Telecommunications for Disaster Relief by OCHA": [
+      {
+         "Prefix": "+888"
+      }
+   ],
+   "Thailand": [
+      {
+         "Prefix": "+66"
+      }
+   ],
+   "Thuraya (Mobile Satellite service)": [
+      {
+         "Prefix": "+882 16"
+      }
+   ],
+   "Timor-Leste": [
+      {
+         "Prefix": "+670"
+      }
+   ],
+   "Togo": [
+      {
+         "Prefix": "+228"
+      }
+   ],
+   "Tokelau": [
+      {
+         "Prefix": "+690"
+      }
+   ],
+   "Tonga": [
+      {
+         "Prefix": "+676"
+      }
+   ],
+   "Transnistria": [
+      {
+         "Prefix": "+373 2"
+      },
+      {
+         "Prefix": "+373 5"
+      }
+   ],
+   "Trinidad and Tobago": [
+      {
+         "Prefix": "+1 868"
+      }
+   ],
+   "Tristan da Cunha": [
+      {
+         "Prefix": "+290 8"
+      }
+   ],
+   "Tunisia": [
+      {
+         "Prefix": "+216"
+      }
+   ],
+   "Turkey": [
+      {
+         "Prefix": "+90"
+      }
+   ],
+   "Turkmenistan": [
+      {
+         "Prefix": "+993"
+      }
+   ],
+   "Turks and Caicos Islands": [
+      {
+         "Prefix": "+1 649"
+      }
+   ],
+   "Tuvalu": [
+      {
+         "Prefix": "+688"
+      }
+   ],
+   "Uganda": [
+      {
+         "Prefix": "+256"
+      }
+   ],
+   "Ukraine": [
+      {
+         "Prefix": "+380"
+      }
+   ],
+   "United Arab Emirates": [
+      {
+         "Prefix": "+971"
+      }
+   ],
+   "United Kingdom": [
+      {
+         "Prefix": "+44"
+      }
+   ],
+   "United States": [
+      {
+         "Prefix": "+1"
+      }
+   ],
+   "Universal Personal Telecommunications (UPT)": [
+      {
+         "Prefix": "+878"
+      }
+   ],
+   "Uruguay": [
+      {
+         "Prefix": "+598"
+      }
+   ],
+   "US Virgin Islands": [
+      {
+         "Prefix": "+1 340"
+      }
+   ],
+   "Uzbekistan": [
+      {
+         "Prefix": "+998"
+      }
+   ],
+   "Vanuatu": [
+      {
+         "Prefix": "+678"
+      }
+   ],
+   "Vatican City State (Holy See)": [
+      {
+         "Prefix": "+379"
+      },
+      {
+         "Prefix": "+39 06 698"
+      }
+   ],
+   "Venezuela": [
+      {
+         "Prefix": "+58"
+      }
+   ],
+   "Vietnam": [
+      {
+         "Prefix": "+84"
+      }
+   ],
+   "Wake Island, USA": [
+      {
+         "Prefix": "+1 808"
+      }
+   ],
+   "Wallis and Futuna": [
+      {
+         "Prefix": "+681"
+      }
+   ],
+   "Yemen": [
+      {
+         "Prefix": "+967"
+      }
+   ],
+   "Zambia": [
+      {
+         "Prefix": "+260"
+      }
+   ],
+   "Zanzibar": [
+      {
+         "Prefix": "+255 24"
+      }
+   ],
+   "Zimbabwe": [
+      {
+         "Prefix": "+263"
+      }
+   ],
+   "�land Islands": [
+      {
+         "Prefix": "+358 18"
+      }
+   ]
+}
